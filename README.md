@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CineExplorer
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.8.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# cine-explorer
+Proyecto correspondiente a la materia Programación Web 1, del 4 semestre de la carrera Ingeniería Informática
+>>>>>>> 8ebe2ba878e149dbac146cc6e635343be7db2455
